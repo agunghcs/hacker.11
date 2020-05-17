@@ -34,6 +34,8 @@ echo $blue "3.> Spam Chat"
 echo "[===============================================]>"
 echo $yellow "4.> Spam Call"
 echo "[===============================================]>"
+echo %red "5.> Spam Alodoc"
+echo "[===============================================]>"
 echo "\033[32;1m"
 read -p "[root@T00Ls-HACKER11:~#" bro
 
@@ -72,6 +74,15 @@ cd hacker11
 python2 kintil.py
 fi
 
+if
+[ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+toilet "Mr.HACKER11"
+cd docOTP
+python haldoc.py
+fi
+
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
@@ -103,6 +114,16 @@ git clone https://github.com/mamasagung/hacker.11
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
+then
+clear
+toilet -f standard -F gay "Mr.HACKER11" 
+apt update && upgrade
+apt install python2
+apt install git
+git clone https://github.com/mamasagung/hacker.11
+fi
+
+if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 toilet -f standard -F gay "Mr.HACKER11" 
