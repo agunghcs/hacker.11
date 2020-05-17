@@ -61,6 +61,15 @@ cd hacker.11
 python2 spam.py
 fi
 
+if
+[ $bro = 4 ] || [ $bro = 4 ]
+then
+clear
+toilet "Mr.HACKER11"
+cd hacker11
+python2 kintil.py
+fi
+
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
@@ -82,6 +91,16 @@ git clone https://github.com/mamasagung/DarkVIP
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
+then
+clear
+toilet -f standard -F gay "Mr.HACKER11" 
+apt update && upgrade
+apt install python2
+apt install git
+git clone https://github.com/mamasagung/hacker.11
+fi
+
+if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 toilet -f standard -F gay "Mr.HACKER11" 
