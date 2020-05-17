@@ -34,7 +34,7 @@ echo $blue "3.> Spam Chat"
 echo "[===============================================]>"
 echo $yellow "4.> Spam Call"
 echo "[===============================================]>"
-echo $Red  "5.> Spam SMS Alodoc"
+echo $green  "5.> Spam SMS Alodoc"
 echo "[===============================================]>"
 echo "\033[32;1m"
 read -p "[root@T00Ls-HACKER11:~#" bro
