@@ -13,17 +13,17 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 toilet -f big -F gay "T00Ls" | lolcat
-toilet -f big -F gay "HACKER11" 
+toilet -f big -F gay "HACKER11" | lolcat
 echo ""      
-echo "\033[32;1mAuthor : Mr.HACKER11 Feat Mr.IM7V" 
-echo "\033[35;1mTeam : HACKER INDONESIA"
-echo "\033[33;1mKontak Me :  087835334733"
-echo "\033[31;1mFOLLOW ME IG =MAMAS_AGUNG_2019:"
-echo "\033[33;1mHACKER INDONESIA" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
-echo "\033[34;1m[============================[>".
+echo "\033[35;1mAuthor : Mr.HACKER11 Feat Mr.IM7V" 
+echo "\033[35;1mTeam   : HACKER INDONESIA"
+echo "\033[35;1mKontak Me :  087835334733"
+echo "\033[35;1mFOLLOW ME IG =MAMAS_AGUNG_2019:"
+echo "\033[35;1mHACKER INDONESIA" "\033[35;1m&" "\033[35;1mIndonesia Security Lite"
+echo "\033[35;1m[============================[>".
 sleep 1
 echo ""
-echo "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"
+echo "\033[32;1m Silahkan Pilih Tools Yang mau Kamu pake:)?:"
 echo "\033[36;1m"
 echo "[===============================================[>"
 echo $green "1.> Spam IndiHome"
