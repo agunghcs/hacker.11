@@ -36,6 +36,8 @@ echo $yellow "4.> Spam Call"
 echo "[===============================================]>"
 echo $green  "5.> Spam SMS Alodoc"
 echo "[===============================================]>"
+echo $purple "6.> Change Style Termux"
+echo "[===============================================]>"
 echo "\033[32;1m"
 read -p "[root@T00Ls-HACKER11:~#" bro
 
@@ -76,6 +78,15 @@ fi
 
 if
 [ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+toilet "Mr.HACKER11"
+cd hacker.11
+python2 termux.py
+fi
+
+if
+[ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 toilet "Mr.HACKER11"
@@ -124,6 +135,16 @@ git clone https://github.com/mamasagung/hacker.11
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+toilet -f standard -F gay "Mr.HACKER11" 
+apt update && upgrade
+apt install python2
+apt install git
+git clone https://github.com/mamasagung/hacker.11
+fi
+
+if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 toilet -f standard -F gay "Mr.HACKER11" 
